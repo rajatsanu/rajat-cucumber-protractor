@@ -1,0 +1,11 @@
+node_modules/
+bower_components/
+.sass-cache/
+.temp*/
+dist/
+typings/
+.idea
+coverage/
+junit/
+report/
+tsconfig.json
