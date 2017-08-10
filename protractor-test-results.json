@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Login to Clinical Portal test",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 9896385698
+  }
+]

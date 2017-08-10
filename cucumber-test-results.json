@@ -1,0 +1,1244 @@
+[
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Clinical Portal",
+            "result": {
+              "status": "passed",
+              "duration": 497777
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\e2e\\stepDefination\\step1.js:8"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Provide credentials",
+            "result": {
+              "status": "passed",
+              "duration": 312889
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\e2e\\stepDefination\\step1.js:14"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Clinical Portal",
+            "result": {
+              "status": "passed",
+              "duration": 517470
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\e2e\\stepDefination\\step1.js:8"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Provide credentials",
+            "result": {
+              "status": "passed",
+              "duration": 309242
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\e2e\\stepDefination\\step1.js:14"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Clinical Portal",
+            "result": {
+              "status": "passed",
+              "duration": 641458
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\e2e\\stepDefination\\step1.js:8"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Provide credentials",
+            "result": {
+              "status": "passed",
+              "duration": 220626
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\e2e\\stepDefination\\step1.js:14"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:\\Halo_Rajat\\TestProject\\e2e\\specsFile\\spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Clinical Portal",
+            "result": {
+              "status": "passed",
+              "duration": 799726
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\e2e\\stepDefination\\step1.js:8"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Provide credentials",
+            "result": {
+              "status": "passed",
+              "duration": 330393
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\e2e\\stepDefination\\step1.js:14"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Clinical Portal",
+            "result": {
+              "status": "passed",
+              "duration": 1090370
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\step1.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Provide credentials",
+            "result": {
+              "status": "passed",
+              "duration": 493401
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\step1.js:7"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Clinical Portal",
+            "result": {
+              "status": "passed",
+              "duration": 4071929
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\step1.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Provide credentials",
+            "result": {
+              "status": "passed",
+              "duration": 229379
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\step1.js:8"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Clinical Portal",
+            "result": {
+              "status": "passed",
+              "duration": 1096933
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\step1.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Provide credentials",
+            "result": {
+              "status": "passed",
+              "duration": 247613
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\step1.js:8"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Clinical Portal",
+            "result": {
+              "status": "ambiguous"
+            },
+            "line": 6
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Provide credentials",
+            "result": {
+              "status": "ambiguous"
+            },
+            "line": 7
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Clinical Portal",
+            "result": {
+              "status": "passed",
+              "duration": 825618
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\step1.js:5"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Provide credentials",
+            "result": {
+              "status": "passed",
+              "duration": 268399
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\step1.js:10"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Clinical Portal",
+            "result": {
+              "status": "passed",
+              "duration": 858438
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\step1.js:5"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Provide credentials",
+            "result": {
+              "status": "passed",
+              "duration": 286997
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\step1.js:10"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Clinical Portal",
+            "result": {
+              "status": "passed",
+              "duration": 1116991
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\step1.js:5"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Provide credentials",
+            "result": {
+              "status": "passed",
+              "duration": 262199
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\step1.js:10"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Clinical Portal",
+            "result": {
+              "status": "passed",
+              "duration": 805561
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\step1.js:5"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Provide credentials",
+            "result": {
+              "status": "passed",
+              "duration": 260740
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\step1.js:10"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Buy Book India Portal",
+            "result": {
+              "status": "failed",
+              "duration": 507988,
+              "error_message": "ReferenceError: broser is not defined\n    at World.<anonymous> (C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:6:9)\n    at _combinedTickCallback (internal/process/next_tick.js:67:7)\n    at process._tickCallback (internal/process/next_tick.js:98:9)"
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:5"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "verify portal open successfully",
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Buy Book India Portal",
+            "result": {
+              "status": "passed",
+              "duration": 3104089
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:5"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "verify portal open successfully",
+            "result": {
+              "status": "passed",
+              "duration": 281527
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:11"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Buy Book India Portal",
+            "result": {
+              "status": "passed",
+              "duration": 2123121
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:5"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "verify portal open successfully",
+            "result": {
+              "status": "passed",
+              "duration": 234120
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:11"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Buy Book India Portal",
+            "result": {
+              "status": "failed",
+              "duration": 3229172,
+              "error_message": "TypeError: Parameter \"url\" must be a string, not undefined\n    at Url.parse (url.js:87:11)\n    at urlParse (url.js:81:5)\n    at Url.resolve (url.js:635:29)\n    at Object.urlResolve [as resolve] (url.js:631:40)\n    at ProtractorBrowser.get (C:\\Halo_Rajat\\TestProject\\node_modules\\protractor\\built\\browser.js:459:17)\n    at HomePage.BrowserInteractions.load (C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\testResources\\BrowserInteractions.js:8:31)\n    at World.<anonymous> (C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:8:18)"
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "verify portal open successfully",
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:13"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Buy Book India Portal",
+            "result": {
+              "status": "passed",
+              "duration": 9133186662
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "verify portal open successfully",
+            "result": {
+              "status": "passed",
+              "duration": 712204
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:13"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Buy Book India Portal",
+            "result": {
+              "status": "failed",
+              "duration": 949242,
+              "error_message": "TypeError: Parameter \"url\" must be a string, not undefined\n    at Url.parse (url.js:87:11)\n    at urlParse (url.js:81:5)\n    at Url.resolve (url.js:635:29)\n    at Object.urlResolve [as resolve] (url.js:631:40)\n    at ProtractorBrowser.get (C:\\Halo_Rajat\\TestProject\\node_modules\\protractor\\built\\browser.js:459:17)\n    at HomePage.BrowserInteractions.load (C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\testResources\\BrowserInteractions.js:8:31)\n    at World.<anonymous> (C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:9:18)"
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:7"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "verify portal open successfully",
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:14"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Buy Book India Portal",
+            "result": {
+              "status": "failed",
+              "duration": 999566,
+              "error_message": "TypeError: Parameter \"url\" must be a string, not undefined\n    at Url.parse (url.js:87:11)\n    at urlParse (url.js:81:5)\n    at Url.resolve (url.js:635:29)\n    at Object.urlResolve [as resolve] (url.js:631:40)\n    at ProtractorBrowser.get (C:\\Halo_Rajat\\TestProject\\node_modules\\protractor\\built\\browser.js:459:17)\n    at HomePage.BrowserInteractions.load (C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\testResources\\BrowserInteractions.js:8:31)\n    at World.<anonymous> (C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:8:18)"
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "verify portal open successfully",
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:13"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Buy Book India Portal",
+            "result": {
+              "status": "passed",
+              "duration": 36725106840
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:5"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "verify portal open successfully",
+            "result": {
+              "status": "passed",
+              "duration": 1954278
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:12"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "sign-in-clinical-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Buy Book India Portal",
+            "result": {
+              "status": "passed",
+              "duration": 9836580921
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "verify portal open successfully",
+            "result": {
+              "status": "passed",
+              "duration": 102163636
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\home.js:13"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-in-clinical-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Sign In CLinical Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+][
+  {
+    "elements": [
+      {
+        "id": "open-book-buy-india-portal;login-to-clinical-portal-test",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to Clinical Portal test",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Navigate to Buy Book India Portal",
+            "result": {
+              "status": "passed",
+              "duration": 9780660633
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\Home.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "verify portal open successfully",
+            "result": {
+              "status": "passed",
+              "duration": 115725065
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Halo_Rajat\\TestProject\\.temp\\typescript\\StepDefinitions\\Home.js:13"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rajat",
+            "line": 1
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "open-book-buy-india-portal",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Open Book Buy India Portal",
+    "tags": [
+      {
+        "name": "@rajat",
+        "line": 1
+      }
+    ],
+    "uri": "C:/Halo_Rajat/TestProject/e2e/specsFile/spec1.feature"
+  }
+]

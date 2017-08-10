@@ -1,0 +1,10 @@
+{
+  "name": "testproject",
+  "globalDependencies": {
+
+    "node": "registry:dt/node#6.0.0+20160807145350",
+    "selenium-webdriver": "registry:dt/selenium-webdriver#2.44.0+20160317120654",
+    "angular-protractor": "github:DefinitelyTyped/DefinitelyTyped/angular-protractor/angular-protractor.d.ts#eaaf036c78f7e15959fa21ba1b028f830f4871ca"
+
+  }
+}
